@@ -4,3 +4,8 @@ Emotion_detection is a .ipynb file where we have loaded the saved trained model 
 And detect the facial emotion and plays the relevant songs based on the emotion captured.
 You can directly upload the emotion_classification.ipynb in google collab and you are ready to use.
 you can directly upload the emotion_detection.ipynb file into the jupyter notebook and install the required packages and you are ready to go.
+
+
+https://youtu.be/InkZci6RzVA
+
+https://youtu.be/3m46Lls2DGA
